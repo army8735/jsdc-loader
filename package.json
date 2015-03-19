@@ -1,6 +1,6 @@
 {
   "name": "jsdc-loader",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "",
   "maintainers": [
     {
@@ -22,8 +22,8 @@
   },
   "keywords": [
     "webpack",
-    "module",
-    "sprites"
+    "loader",
+    "jsdc"
   ],
   "author": "army8735",
   "license": "MIT",
@@ -42,7 +42,6 @@
     "gulp": "^3.6.0",
     "gulp-clean": "^0.2.4",
     "gulp-util": "^2.2.14",
-    "jsdc": "^0.5.4",
     "mocha": "^1.18.2",
     "mocha-lcov-reporter": "0.0.1",
     "through2": "^0.4.2"
